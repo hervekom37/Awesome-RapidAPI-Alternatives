@@ -6,6 +6,7 @@ This repository is a curated collection of the **best alternatives to RapidAPI**
 If you’ve ever felt limited by RapidAPI’s pricing, features, or ecosystem, here you’ll find modern tools — from open-source clients to powerful all-in-one platforms like **Apidog** and **Ani Code**.  
 
 ---
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 
 ## 🌟 Why Look for RapidAPI Alternatives?
 
